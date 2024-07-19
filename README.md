@@ -1,1 +1,1 @@
-# CV-Alexander-Sahlin
+Det här är mitt CV, mest nämnvärt just nu är att jag går en kurs i webutveckling kallad "The Complete 2024 Web Development Bootcamp ". Den innehåller HTML, CSS, JavaScript, jQuery, Node.js, API, Databases, SQL, PostgreSQL, React.js och lite backend m.m.
