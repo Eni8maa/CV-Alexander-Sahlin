@@ -23,12 +23,12 @@ body
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
-    color: #1e00ff;
+    color: #237fad;
 }
 .container .left_Side
 {
     position: relative;
-    background: #000000;
+    background: #237fad;
     padding: 40px;
 }
 .profileText
@@ -100,7 +100,6 @@ body
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    color: #003954;
 }
 .contactInfo ul li span
 {
@@ -113,12 +112,12 @@ body
 }
 .contactInfo.education h5
 {
-    color: #01afff;
+    color: white;
     font-weight: 500;
 }
 .contactInfo.education h4
 {
-    color: #01afff;
+    color: white;
     font-weight: 500;
 }
 .container .right_Side
